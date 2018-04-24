@@ -1,0 +1,4 @@
+#Fri Apr 20 13:16:00 IST 2018
+base.0=H\:\\Aniruddha\\finalQwikMile\\android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=H\:\\Aniruddha\\finalQwikMile\\android\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_271a8b0052ca4dc9d99845cc3ab47b18daae055b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_835598692e6d43cfc8c9725cdff00e53f43452f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\finalQwikMile\react-native-imei\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e26c5a747be65a14d8760235e02f00f098dcd432">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\finalQwikMile-react-native-imei-unspecified_68a2f87fb9b74bbf0e7e6b444f681c310448994f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_1f1b8d1b9fec07cddf820b26a501555c1a54b0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_7238076f11e9fd41e90fec7cf0059d915fa107a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_ee83cce16065ee0aee273eaf51d65df6373518d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_561910b6118bf2eb59240d009ae12846de254c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_a9ef8e97de89e86eab099c302116588646151487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7cbe36efab27e5473c4b5d91feb8ca4f7fce9ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\finalQwikMile\react-native-signature-capture\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02a628533accf0f3ec82d3f6d7fbd23132bfbe1d">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\finalQwikMile-react-native-signature-capture-unspecified_8129df4ba578602673c2a93a50aefb17b5d2027f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_2eb84ae89f53548a3f3daf1bed2489fe931f84b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.2_4f2b226a1688d897f5cd57879191d4f70bccad77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_540553b9c78ae3dd9942bd0491ba1a4e914d3155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_40b671e0c745e1b8b2f1c0af253aaa20ef82854c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_3da5c8ac2a37542a31018cb8181aaee82c7b175d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_63797c71efe056efb99de33f5415002d123e0cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_f92a0200fb41205810fe08448f93c6f0e6e517aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_9de9f5848cc3c6e0d418e726f030386f421c78e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_e9449695dbc9cc7835be9d95573841158c5a7c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\finalQwikMile\react-native-sqlite-storage\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9fa370e0aa08d9cf72ff025dddf2ba7967dcc03">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\finalQwikMile-react-native-sqlite-storage-unspecified_8da5552214c80af8dddbe196802600c4bb3de974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_48183a681de335ef2404ec2811ed99e475a594d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e0f924cdc4e9cdfd241365c240703e0dffd90ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_c4e9fa660ac2634feb82bb852571e98f70122ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\com\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="H:\Aniruddha\finalQwikMile\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9ce62a595083f10dc7baf39fab2400bf1fa989f4.jar" />
+    </item>
+
+</items>
