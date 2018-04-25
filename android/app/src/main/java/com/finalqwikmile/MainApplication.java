@@ -3,7 +3,6 @@ package com.finalqwikmile;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.reactnativenavigation.NavigationReactPackage;
 import com.rssignaturecapture.RSSignatureCapturePackage;
 import codes.simen.IMEI.IMEI;
 import com.facebook.react.ReactNativeHost;
@@ -26,9 +25,11 @@ public class MainApplication extends Application implements ReactApplication {
 
     @Override
     protected List<ReactPackage> getPackages() {
-      return Arrays.<ReactPackage>asList(new SQLitePluginPackage(), new MainReactPackage(),
-            new NavigationReactPackage(),
-          new RSSignatureCapturePackage(), new IMEI());
+      return Arrays.<ReactPackage>asList(
+        new SQLitePluginPackage(),
+       new MainReactPackage(),
+     new RSSignatureCapturePackage(),
+      new IMEI());
     }
 
     @Override

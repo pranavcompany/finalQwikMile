@@ -284,12 +284,15 @@ class orderList extends Component {
                   </View>
                   : null}
 
-                <View style={{ flexDirection: 'row', marginTop: 5, alignItems: 'center', justifyContent: 'center' }}>
-                  {this.state.checked && this.state.paymentMode != -1 ? <Text style={{ fontSize: 17, marginTop: 10 }}>
+                <View
+                 style={{ flexDirection: 'row', marginTop: 5, alignItems: 'center', justifyContent: 'center' }}>
+                  {this.state.checked && this.state.paymentMode != -1 ? 
+                  <Text style={{ fontSize: 17, marginTop: 10 }}>
                     Amount
                 </Text> : null
                   }
-                  {this.state.checked && this.state.paymentMode != -1 ? <TextInput
+                  {this.state.checked && this.state.paymentMode != -1 ?
+                   <TextInput
                     style={{ height: 40, borderColor: 'gray', borderWidth: 0, borderRadius: 5, width: '50%' }}
                     onChangeText={(text) => this.setState({ text })}
                     value={this.state.text}
@@ -297,14 +300,17 @@ class orderList extends Component {
                   }
                 </View>
                 {this.state.paymentMode == -1 ?
-                <View style ={{flexDirection: 'column'}} >
-                <Text style = {{width: '20%', marginRight: 10 }}> Amount: </Text>
-                  <Picker style={{ width: '80%', marginRight: 5 }} selectedValue={this.state.deliveryStatus} onValueChange={this.updateStatus}>
+                <View style ={{flexDirection: 'row', alignItems:'center', justifyContent:'space-around'}} >
+                <Text style = {{marginRight: 10 }}> Amount: </Text>
+                <View style= {{borderRadius:10, borderWidth:1, width:"60%"}}>
+                  <Picker style={{ marginRight: 5 , borderWidth:1,borderColor:"black"}} 
+                  selectedValue={this.state.deliveryStatus} onValueChange={this.updateStatus}>
                     <Picker.Item label="Please select a status" value="Please select delivery status" />
                     <Picker.Item label="Rescheduled" value="Rescheduled" />
                     <Picker.Item label="Refused at door" value="Refused at door" />
                     <Picker.Item label="Customer non-contactable" value="Customer non-contactable" />
                   </Picker>
+                  </View>
                   </View>
                   : null}
                 {this.state.rescheduledDate ? <TouchableHighlight onPress={() => this.openDatePicker()} underlayColor="white">

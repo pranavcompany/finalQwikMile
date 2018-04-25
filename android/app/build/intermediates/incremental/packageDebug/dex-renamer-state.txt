@@ -1,4 +1,4 @@
-#Thu Apr 19 18:37:08 IST 2018
-base.0=H\:\\Aniruddha\\finalQwikMile\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Apr 25 17:39:34 IST 2018
+base.0=D\:\\react_native\\orderApp\\finalQwikMile\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=H\:\\Aniruddha\\finalQwikMile\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=D\:\\react_native\\orderApp\\finalQwikMile\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
